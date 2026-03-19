@@ -1,1 +1,1 @@
-# A Basic JS App
+#  Vibe Checking (First JS App)
